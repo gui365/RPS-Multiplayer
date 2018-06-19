@@ -1,0 +1,36 @@
+*, html, body {
+    font-family: "Playfair Display", 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(45, 94, 167);
+    padding: 1rem;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 0.7rem;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+main {
+    margin: 2rem;
+}
+
+#show-name {
+    margin: 1rem;
+    font-size: 1.2rem;
+    cursor: context-menu;
+}
+
+.opacity {
+    opacity: 0;
+    cursor: context-menu;
+}
